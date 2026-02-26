@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Teixeira! 🇧🇷 🇨🇦
 
-<!--
-**BrunoMoraisTeixeira/BrunoMoraisTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Tecnólogo em Mecânica de Precisão | Especialista em Indústria 4.0**
 
-Here are some ideas to get you started:
+Sou um profissional apaixonado pela intersecção entre a **Metalurgia** e a **Tecnologia**. Minha missão é conectar o mundo físico da usinagem com o poder da análise de dados e automação em Python para otimizar processos industriais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **🛠️ Sobre Mim**
+* **Formação:** Tecnólogo em Mecânica de Precisão.
+* **Pós-Graduação:** Gestão de Manutenção Industrial 4.0 (em curso).
+* **Experiência em TI:** Já atuei com banco de dados **Oracle**, o que me deu uma base sólida em estrutura de dados.
+* **Foco Atual:** Estudando **Python** para criar automações que resolvam dores reais na área metalúrgica.
+
+### **🌐 Idiomas**
+* **Inglês:** Intermediário 🇬🇧
+* **Espanhol:** Intermediário 🇪🇸
+* **Francês:** Iniciante (Focado em Quebec!) 🇫🇷
+
+### **🚀 Projetos de Destaque**
+* [monitor-dolar-canada](https://github.com/BrunoMoraisTeixeira/monitor-dolar-canada): Automação para monitoramento de câmbio em tempo real.
+
+---
+
+### **📫 Vamos nos conectar?**
+* **Email:** brunomoteixeira@gmail.com
